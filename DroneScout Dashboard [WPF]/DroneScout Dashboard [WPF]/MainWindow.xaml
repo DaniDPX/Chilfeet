@@ -7,10 +7,11 @@
         mc:Ignorable="d"
         Title="DroneScout Dashboard" Height="937.435" Width="1595.565" AllowsTransparency="True" WindowStyle="None" WindowStartupLocation="CenterScreen" WindowState="Maximized" Background="#FF0E0E0E">
     <Grid>
-        <Button x:Name="Camera_Feed" Content="Button" HorizontalAlignment="Left" Margin="268,140,0,0" VerticalAlignment="Top" Width="383" Height="126.96" Click="StartFeed"/>
+        <Button x:Name="Camera_Feed" Content="Start Live Feed" HorizontalAlignment="Left" Margin="268,140,0,0" VerticalAlignment="Top" Width="383" Height="126.96" Click="StartFeed"/>
         <Image x:Name="image" Width="640" Margin="945.565,10,10,447.435" />
-        <Button x:Name="Camera_Take" Content="Button" HorizontalAlignment="Left" Margin="268,460,0,0" VerticalAlignment="Top" Width="383" Height="126.96" Click="TakeShot"/>
+        <Button x:Name="Camera_Take" Content="Take Snaphoot" HorizontalAlignment="Left" Margin="268,414.05,0,0" VerticalAlignment="Top" Width="383" Height="126.96" Click="TakeShot"/>
         <Image x:Name="CameraPreviewImage" Margin="1195.565,482,0,155.435" />
+        <Button x:Name="ImageUpload" Content="Upload Image(s)" HorizontalAlignment="Left" Margin="268,655.04,0,0" VerticalAlignment="Top" Width="383" Height="126.96"/>
 
     </Grid>
 </Window>
