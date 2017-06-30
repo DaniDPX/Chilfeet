@@ -1,0 +1,16 @@
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\bin\Debug\DroneScout Dashboard [WPF].exe.config
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\bin\Debug\DroneScout Dashboard [WPF].exe
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\bin\Debug\DroneScout Dashboard [WPF].pdb
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF].csprojResolveAssemblyReference.cache
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\MainWindow.g.cs
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\App.g.cs
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF]_MarkupCompile.cache
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF]_MarkupCompile.lref
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\MainWindow.baml
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF].g.resources
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout_Dashboard__WPF_.Properties.Resources.resources
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF].csproj.GenerateResource.Cache
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF].exe
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\obj\Debug\DroneScout Dashboard [WPF].pdb
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\bin\Debug\MjpegProcessor.dll
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\DroneScout Dashboard [WPF]\bin\Debug\MjpegProcessor.pdb

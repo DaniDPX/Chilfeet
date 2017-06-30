@@ -1,0 +1,5 @@
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\MjpegProcessor\bin\Debug\MjpegProcessor.dll
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\MjpegProcessor\bin\Debug\MjpegProcessor.pdb
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\MjpegProcessor\obj\Debug\CodeX MJPEG Decoder Lib.csprojResolveAssemblyReference.cache
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\MjpegProcessor\obj\Debug\MjpegProcessor.dll
+D:\ICTEXPO\Chilfeet\Chilfeet\DroneScout Dashboard [WPF]\MjpegProcessor\obj\Debug\MjpegProcessor.pdb
