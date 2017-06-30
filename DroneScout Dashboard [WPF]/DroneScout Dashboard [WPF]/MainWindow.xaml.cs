@@ -51,5 +51,10 @@ namespace DroneScout_Dashboard__WPF_
         {
             System.Windows.MessageBox.Show(e.Message);
         }
+
+        private void TakeShot(object sender, RoutedEventArgs e)
+        {
+            CameraPreviewImage.Source = image.Source;
+        }
     }
 }
