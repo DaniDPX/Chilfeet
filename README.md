@@ -3,5 +3,5 @@ Project named ጭልፊት | Chilfeet is an Agricultural drone and IoT based sol
 
 
 ## CodeX Team 2017
-![Team CodeX](Chilfeet/DroneScout Dashboard [WPF]/DroneScout Dashboard [WPF]/Logo.png)
+![Team CodeX](https://raw.githubusercontent.com/DaniDPX/Chilfeet/master/DroneScout Dashboard %5BWPF%5D/DroneScout Dashboard %5BWPF%5D/Logo.png)
 
